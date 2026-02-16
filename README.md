@@ -1,4 +1,4 @@
-# Repositorio Práctica 1
+# Repositorio 
 
 ## Integrantes del equipo
 
